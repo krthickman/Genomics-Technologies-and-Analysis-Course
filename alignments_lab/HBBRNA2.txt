@@ -1,0 +1,6 @@
+Name	Sequence
+Human_HBB	acatttgcttctgacacaactgtgttcactagcaacctcaaacagacaccatggtgcatctgac
+Mouse_HBB	tcacatttgcttctgacatagttgtgttgactcacaaccccagaaacagacatcatggtgcacc
+
+
+
